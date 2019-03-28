@@ -15,10 +15,8 @@
 				<div class="img_4"><img src="../assets/img_4.png" class="img-req" /></div>
 				<div class="div11">16</div>
 				<div class="img_4"><img src="../assets/img_17.png" class="img-req" /></div>
-				<div class="div11">16</div>
+				<div class="div">16</div>
 			</div>
-			<input type="text" placeholder="输入评论" class="pingluen" />
-			<input type="button" value="提交" class="button" />
 		</div>
 	</div>
 </template>
