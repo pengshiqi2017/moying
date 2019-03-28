@@ -14,8 +14,8 @@
 				<div class="div1-2-1-2-span1">合作</div><div class="div11">11月前</div>
 				<div class="img_4"><img src="../assets/img_4.png" class="img-req" /></div>
 				<div class="div11">16</div>
-				<div class="img_4"><img src="../assets/img_17.png" class="img-req" /></div>
-				<div class="div">16</div>
+				<div class="img_4"><img src="../assets/img_6.png" class="img-req" /></div>
+				<div class="div11">16</div>
 			</div>
 		</div>
 	</div>
